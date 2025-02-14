@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Lu4head/Lu4head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Luan Emanuel! 👋
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🖥️ Atualmente trabalho como **Analista de Suporte Júnior**, com foco em Middleware.
+- 🎓 Sou estudante de **Ciências da Computação**.
+- 🚀 Estou em transição de carreira para me tornar um **Desenvolvedor Back-End**.
+- 💡 Apaixonado por resolver problemas e aprender novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+### Linguagens de Programação
+- **Python** (Django, FastAPI)
+- **C++**
+- **Java** (em estudo)
+
+### Ferramentas e Plataformas
+- 🐧 Linux (experiência em SysAdmin)
+- 🐳 Docker
+- 🛠️ Middleware e suporte técnico
+
+## Objetivos Profissionais
+- Migrar para a área de **Desenvolvimento Back-End**, com foco em Python.
+- Contribuir para projetos desafiadores e aprender continuamente.
+- Busco oportunidades para crescer como desenvolvedor e aplicar meus conhecimentos.
+
+## Contato
+- 🔗 [LinkedIn](www.linkedin.com/in/luan-emanuel-rinaldi-argentato-a788b4214)
+
+## Estou aprendendo...
+- Desenvolvimento back-end com Python e Java.
+- Boas práticas de programação e arquitetura de software.
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+---
