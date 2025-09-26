@@ -11,8 +11,8 @@
 ## Tecnologias e Ferramentas
 ### Linguagens de Programação
 - **Python** (Django, FastAPI)
+- **Java**
 - **C++**
-- **Java** (em estudo)
 
 ### Ferramentas e Plataformas
 - 🐧 Linux (experiência em SysAdmin)
@@ -20,7 +20,7 @@
 - 🛠️ Middleware e suporte técnico
 
 ## Objetivos Profissionais
-- Migrar para a área de **Desenvolvimento Back-End**, com foco em Python.
+- Migrar para a área de **Desenvolvimento Back-End**.
 - Contribuir para projetos desafiadores e aprender continuamente.
 - Busco oportunidades para crescer como desenvolvedor e aplicar meus conhecimentos.
 
