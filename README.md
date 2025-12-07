@@ -11,7 +11,7 @@
 ## Tecnologias e Ferramentas
 ### Linguagens de Programação
 - **Python** (Django, FastAPI)
-- **Java**
+- **Java** (SpringBoot)
 - **C++**
 
 ### Ferramentas e Plataformas
@@ -25,7 +25,7 @@
 - Busco oportunidades para crescer como desenvolvedor e aplicar meus conhecimentos.
 
 ## Contato
-- 🔗 [LinkedIn](www.linkedin.com/in/luan-emanuel-rinaldi-argentato-a788b4214)
+- 🔗 [LinkedIn](www.linkedin.com/in/luan-emanuel-rinaldi-argentato)
 
 ## Estou aprendendo...
 - Desenvolvimento back-end com Python e Java.
