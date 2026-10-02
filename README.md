@@ -185,33 +185,23 @@
 
 ## 📊 Meus stats
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lu4head&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&hide_border=false"
-    height="155"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Lu4head&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false"
     alt="Estatísticas do GitHub"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Lu4head&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
-    height="155"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Lu4head&locale=pt-br&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
     alt="Linguagens mais usadas"
   />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img
+    width="60%"
     src="https://streak-stats.demolab.com?user=Lu4head&theme=tokyonight&hide_border=false&locale=pt_BR"
-    height="155"
     alt="Sequência de contribuições"
   />
-</div>
-
----
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Lu4head&label=Visitantes&color=0e75b6&style=flat"
-    alt="Visualizações do perfil"
-  />
-</div>
+</p>
